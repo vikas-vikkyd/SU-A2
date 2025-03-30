@@ -1,5 +1,5 @@
 # Speech Understanding Programming Assignment - 2
-This repository contains Implementation of pogramming assignment 2.
+This repository contains Implementation of programming assignment 2.
 Repository contains notebooks also which were executed on Google colab.
 
 ## Author
@@ -12,9 +12,9 @@ Repository contains notebooks also which were executed on Google colab.
 - Use `source envSUA2/bin/activate` to activate the environment
 - Use `pip install -r requirements.txt` to install the dependencies
 - Data path need to be updated accordingly in all code
-- Use `python q1_pretrained.py` to see accuracy for pretained model
+- Use `python q1_pretrained.py` to see accuracy for pretrained model
 - Use `python q1_finetuning.py` to finetune the "facebook/wav2vec2-xls-r-300m" model using PEFT (LORA)
-- Execute SU_A2_q2.ipynb to generate MLE features for provided dataset and Spectrogram for different language.
+- Execute SU_A2_q2.ipynb to generate MLE features for provided dataset and Spectrogram for different languages.
 - Use `python trainer_q2.py` to train the classification model to identify language
 
 ## References
